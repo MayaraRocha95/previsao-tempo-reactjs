@@ -1,8 +1,17 @@
-# React + Vite
+# App de Previsão do Tempo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Imagem do projeto](./public/previsao.png)
 
-Currently, two official plugins are available:
+## Descrição
+Este projeto é um aplicativo de previsão do tempo desenvolvido com React. O usuário pode buscar uma cidade e visualizar a previsão do tempo para hoje e os próximos 5 dias, utilizando a API OpenWeather.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+- **ReactJS**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **OpenWeather API**: API para recuperar dados meteorológicos.
+
+## Funcionalidades
+- Busca de cidades para previsão do tempo.
+- Exibição da previsão atual e dos próximos 5 dias.
+- Design responsivo com CSS.
+
+Projeto criado pelo tutorial [DevClub](https://www.youtube.com/watch?v=1mm_C-t_Vyg)
