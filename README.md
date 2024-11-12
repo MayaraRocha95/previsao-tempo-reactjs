@@ -1,6 +1,7 @@
 # App de Previsão do Tempo
 
 
+
 ![Imagem do projeto](./public/previsao.png)
 
 ## Descrição
